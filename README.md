@@ -127,6 +127,8 @@ JSON
 #### berhasil delete
 ![web1](deploy/hapus.png)
 ![web1](deploy/alerhapus.png)
+#### Error 
+![web1](deploy/error.png)
 
 **2. Struktur Database (MySQL)**
 ![web1](deploy/database.png)
@@ -140,3 +142,5 @@ JSON
 ![web1](deploy/update.png)
 * DELETE
 ![web1](deploy/delete.png)
+* ERROR
+![web1](deploy/errorhandling.png)
